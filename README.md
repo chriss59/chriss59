@@ -47,6 +47,12 @@
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
+<details>
+  <summary>:clock1: Coding activity</summary>
+<p align="center"><img src ="https://wakatime.com/share/@3177d171-a33a-475e-a3fc-d6c7676a6cb0/73a0f283-ef52-4726-8d4c-64b608b472ee.svg" width="75%" height="75%"></p>
+<figure><embed src="https://wakatime.com/share/@3177d171-a33a-475e-a3fc-d6c7676a6cb0/73a0f283-ef52-4726-8d4c-64b608b472ee.svg"></embed></figure>
+</details>
+
 
 <details>
   <summary>📃 Resume</summary>
