@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris <img align="center" src="https://i.imgur.com/lPLDVJA.png"/></h1>
 <h3 align="center">A passionate Java Developer</h3>
 <p align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=3%2B+years+of+coding+experience;Always+learning+new+things"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&lines=8%2B+years+of+coding+experience;Always+learning+new+things"/>
 </p>
 <p align=center>
 <img align="center" alt="chriss59's Github stats" src="https://github-readme-stats.vercel.app/api?username=chriss59&show_icons=true&count_private=true&theme=midnight-purple"/>
