@@ -65,7 +65,7 @@
 
 </details>
 
-<p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=chriss59" alt="chriss59" /> Thanks for visiting my site:smile:
+<p align="center">Thanks for visiting my site :smile:
 <!--
 **chriss59/chriss59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
