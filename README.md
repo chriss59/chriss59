@@ -36,7 +36,6 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/NVIDIA-RTX 3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/AMD Ryzen 9 5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-<img src="https://camo.githubusercontent.com/c65b6027e093f1170019309c575123328cd6824d11aa154464aea649f4f71d6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52414d2d313647422d2532333030373143352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465" />
 </p>
 
 <h3 align="center">👩‍💻 IDE's</h3>
